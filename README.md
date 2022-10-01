@@ -8,3 +8,5 @@ Xoá bài viết bất kỳ
 Đăng nhập – Đổi mật khẩu 
 Thêm, sửa, xoá, tìm kiếm bài viết của bản thân
 Đọc, Comment vào bài viết của người khác (anonymous)
+
+DEPLOY with XAMPP: Enter url: localhost/(tên folder lớn)
